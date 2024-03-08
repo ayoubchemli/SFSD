@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1706050132 source:c:\users\asus\desktop\exam tp sfsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+
